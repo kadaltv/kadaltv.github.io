@@ -34,6 +34,12 @@ const music_list = [
         music : 'music/fallingdown.mp3'
     },
     {
+        img : 'images/van halen.jpg',
+        name : 'Van Halen',
+        artist : 'Wid Cards',
+        music : 'music/Van Halen - I Can't Stop Loving You.mp3'
+    },
+    {
         img : 'images/faded.png',
         name : 'Faded',
         artist : 'Alan Walker',
